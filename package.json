@@ -1,16 +1,16 @@
 {
-  "name": "npm-pkg-test",
+  "name": "npm-import-test",
   "version": "0.1.0",
   "description": "Boilerplate test",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Chris-1101/npm-pkg-test.git"
+    "url": "git+ssh://git@github.com/Chris-1101/npm-import-test.git"
   },
   "author": "Chris-1101",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Chris-1101/npm-pkg-test/issues"
+    "url": "https://github.com/Chris-1101/npm-import-test/issues"
   },
-  "homepage": "https://github.com/Chris-1101/npm-pkg-test#readme"
+  "homepage": "https://github.com/Chris-1101/npm-import-test#readme"
 }
